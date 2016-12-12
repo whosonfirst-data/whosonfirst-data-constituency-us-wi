@@ -9,7 +9,7 @@
     "geom:bbox":"-88.32622,43.23618,-88.1112,43.45553",
     "geom:latitude":43.343997,
     "geom:longitude":-88.225664,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":227982494.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 58",
     "uscensus:sldlst":"058",
     "uscensus:statefp":"55",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688517
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488586,
     "wof:geomhash":"81e195ef4af1bc470bb0f3da614bd97a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688517
+        }
+    ],
     "wof:id":1108775785,
     "wof:lastmodified":1481488586,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688517,
     "wof:repo":"whosonfirst-data-constituency-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

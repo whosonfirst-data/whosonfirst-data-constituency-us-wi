@@ -9,7 +9,7 @@
     "geom:bbox":"-92.28612,45.120559,-91.53945,45.98329",
     "geom:latitude":45.509601,
     "geom:longitude":-91.870796,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3731512584.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 75",
     "uscensus:sldlst":"075",
     "uscensus:statefp":"55",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688517
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488590,
     "wof:geomhash":"26b1a8ca732cc2d5e225fa8e9680abfc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688517
+        }
+    ],
     "wof:id":1108775823,
     "wof:lastmodified":1481488590,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688517,
     "wof:repo":"whosonfirst-data-constituency-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-88.13141,44.539957,-87.44276,45.14498",
     "geom:latitude":44.889402,
     "geom:longitude":-87.8748,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1232164481.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 89",
     "uscensus:sldlst":"089",
     "uscensus:statefp":"55",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688517
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488593,
     "wof:geomhash":"df7a6ce00af27fd65d00eb05827b0e8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688517
+        }
+    ],
     "wof:id":1108775855,
     "wof:lastmodified":1481488593,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688517,
     "wof:repo":"whosonfirst-data-constituency-us-wi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
